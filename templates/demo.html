@@ -6,7 +6,21 @@
 </head>
 <body>
 
-<h1>{{headline}}</h1>
+<a href="{{ url_for("show_next") }}">go to next page</a>
+
+<h1>{{ headline }}</h1>
+
+{% if ny %}
+    <h3>happy new year</h3>
+{% else %}
+    <h3>no new year</h3>
+{% endif %}
+
+<ol>
+    {% for name in names %}
+        <li>name is {{ name }}</li>
+    {% endfor %}
+</ol>
 
 <h2>An Unordered HTML List</h2>
 
