@@ -1,0 +1,13 @@
+{% extends 'layout.html' %}
+
+{% block heading %}
+    form example
+{% endblock %}
+
+{% block body %}
+<form action="{{ url_for('show_form_result') }}" method="post">
+    <input type="text" name="name" placeholder="enter name"/>
+    <button>submit</button>
+</form>
+
+{% endblock %}

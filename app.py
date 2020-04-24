@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 import datetime
 
 app = Flask(__name__)
@@ -42,6 +42,35 @@ def show_list():
 @app.route("/next")
 def show_next():
     return render_template("next.html")
+
+
+@app.route("/dL")
+def show_dynamic():
+    return render_template('duplicate_layout.html')
+
+
+@app.route("/form")
+def show_form():
+    return render_template("form.html")
+
+
+@app.route("/fR", methods=["POST", "GET"])
+def show_form_result():
+    if request.method == "GET":
+        return "GET method is called"
+    else:
+        name = request.form.get("name")
+        return render_template('duplicate_layout.html', name=name)
+
+
+lists = []
+
+
+@app.route("/exS", methods=["GET", "POST"])
+def store_session():
+    item = request.form.get("item")
+    lists.append(item)
+    return render_template("session.html", lists=lists)
 
 
 if __name__ == '__main__':

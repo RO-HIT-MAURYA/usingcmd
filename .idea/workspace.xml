@@ -2,79 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="443305e9-7e31-4a71-9448-e494a1b72e06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/next.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage-5.1-py3.8.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage-5.1-py3.8.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage-5.1-py3.8.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage-5.1-py3.8.egg-info/entry_points.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage-5.1-py3.8.egg-info/installed-files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage-5.1-py3.8.egg-info/not-zip-safe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage-5.1-py3.8.egg-info/requires.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage-5.1-py3.8.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/annotate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/backunittest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/backward.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/bytecode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/cmdline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/collector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/context.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/control.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/debug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/disposition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/execfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/fullcoverage/encodings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/html.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/htmlfiles/coverage_html.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/htmlfiles/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/htmlfiles/jquery.ba-throttle-debounce.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/htmlfiles/jquery.hotkeys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/htmlfiles/jquery.isonscreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/htmlfiles/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/htmlfiles/jquery.tablesorter.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/htmlfiles/keybd_closed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/htmlfiles/keybd_open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/htmlfiles/pyfile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/htmlfiles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/htmlfiles/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/inorout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/jsonreport.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/misc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/multiproc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/numbits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/optional.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/phystokens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/plugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/plugin_support.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/pytracer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/results.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/sqldata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/summary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/templite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/tomlconfig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/xmlreport.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/coverage-3.8-script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/coverage-3.8.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/coverage-3.8.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/coverage-script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/coverage.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/coverage.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/coverage3-script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/coverage3.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/coverage3.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/duplicate_layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/session.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/demo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +79,8 @@
       <workItem from="1587657060042" duration="893000" />
       <workItem from="1587659363773" duration="580000" />
       <workItem from="1587659964987" duration="363000" />
-      <workItem from="1587660483669" duration="3153000" />
+      <workItem from="1587660483669" duration="3253000" />
+      <workItem from="1587732424749" duration="9253000" />
     </task>
     <task id="LOCAL-00001" summary="flask demo">
       <created>1587483174218</created>
@@ -155,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587483174219</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="listing and navigation is implemented.">
+      <created>1587663849843</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587663849843</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,35 +104,44 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="flask demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="flask demo" />
+    <MESSAGE value="listing and navigation is implemented." />
+    <option name="LAST_COMMIT_MESSAGE" value="listing and navigation is implemented." />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1587663422682">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1587663847855">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587663422682" />
-    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1587663422682">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587663847855" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1587751936913">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587663422682" />
-    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1587663422682">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587751936913" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1587751936913">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587663422682" />
-    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1587663422682">
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587751936913" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1587751936913">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587663422682" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587751936913" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1587751936913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587751936913" />
     <state x="486" y="66" key="RollbackChangesDialog" timestamp="1587660585042">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="486" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587660585042" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1587663858698">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587663858698" />
     <state x="390" y="0" width="585" height="728" key="find.popup" timestamp="1587662357337">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="390" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1587662357337" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/untitled2$untitled2.coverage" NAME="untitled2 Coverage Results" MODIFIED="1587663422664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$untitled2.coverage" NAME="untitled2 Coverage Results" MODIFIED="1587751992719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body>
+
+<ul>
+
+    {% for item in lists %}
+        <li>{{ item }}</li>
+    {% endfor %}
+
+</ul>
+
+
+<form action="{{ url_for('store_session') }}" method="post">
+    <input type="text" name="item">
+    <button>add</button>
+</form>
+
+</body>
+
+</html>
